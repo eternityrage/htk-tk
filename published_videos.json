@@ -398,5 +398,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b2452ac9-935a-4fa3-b9b7-ab719ca8d62b.mp4",
+        "metadata": {
+            "title": "Paris Hilton at Her Most Iconic: Red Carpet Glam, DJ Energy & Fashion That Owns the Spotlight \u2728",
+            "description": "Okay fashion girlies\u2014if you\u2019re not obsessed with Paris Hilton\u2019s red carpet magic, we need to talk, because this is the kind of moment that screams icon behavior! From camera-ready glamour to that effortless \u201csocialite but make it couture\u201d energy, every frame is a runway moment\u2014sparkle, confidence, and pure Hollywood star power. And yes, we\u2019re also celebrating the Paris Hilton vibe beyond the carpet: the fearless style, the signature attitude, and the DJ-set cool that proves she\u2019s not just famous\u2014she\u2019s influential. I swear, she can walk into any event and instantly turn the whole night into a fashion fantasy, like the noughties dreams we still can\u2019t quit. Like if you love Paris Hilton! Comment your favorite Paris Hilton movie or moment! Share this with another Paris Hilton fan! Follow Hilltok Lens for the best Paris Hilton content! #parishilton #hollywood #thesimplelife #dj #fashion #celebrity #redcarpet #parishiltonfan #socialite #metgala #icon #empire #2000s #noughties",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
