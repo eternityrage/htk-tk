@@ -494,5 +494,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b1d660fa-8d7c-4c48-9745-496079a82725.mp4",
+        "metadata": {
+            "title": "Paris Hilton Slays the Red Carpet in Full Glam Mode \u2728 \u2014 Icon Energy from Head to Toe",
+            "description": "If you love unapologetic sparkle, bold style, and red carpet moments that feel like pure pop culture magic, you\u2019re in the right place\u2014because Paris Hilton is serving glam like it\u2019s her love language. From camera-ready couture vibes to those signature Paris expressions that instantly light up every scene, this video is all about the fashion moments that made her a true icon. Watch closely as she turns every appearance into a statement\u2014whether she\u2019s dazzling on the red carpet, stealing attention in interviews, or bringing that effortless \u201csocialite\u201d confidence that never goes out of style. I swear, every frame feels like an ode to the noughties, the 2000s, and the kind of Hollywood sparkle that can\u2019t be manufactured. Like if you love Paris Hilton! Comment your favorite Paris Hilton movie or moment! Share this with another Paris Hilton fan! Follow Hilltok Lens for the best Paris Hilton content! \n\n#parishilton #hollywood #thesimplelife #dj #fashion #celebrity #redcarpet #parishiltonfan #socialite #metgala #icon #empire #2000s #noughties",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
