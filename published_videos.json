@@ -542,5 +542,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-261bcd99-4a24-4372-80d9-dbe9def64d81.mp4",
+        "metadata": {
+            "title": "Paris Hilton\u2019s Most Powerful Moments: Heart, Sparkle & Icon Energy | Hilltok Lens",
+            "description": "There are moments that just feel like fireworks, and Paris Hilton has always been the living proof\u2014on red carpets where she radiates confidence, in interviews where she turns vulnerability into strength, and behind-the-scenes moments that remind us she\u2019s more than the sparkle\u2026 she\u2019s the heart behind the icon. In this video, we\u2019re celebrating the parts of her journey that move us: the fearless way she owns the spotlight, the style that never asks permission, and the DJ energy that makes an entire room feel like a celebration. From her unforgettable 2000s and noughties reign to the modern glow that still hits like a theme song, Paris doesn\u2019t just set trends\u2014she sets the tone for pop culture. Like if you love Paris Hilton! Comment your favorite Paris Hilton movie or moment! Share this with another Paris Hilton fan who understands the assignment. And Follow Hilltok Lens for the best Paris Hilton content\u2014because the empire deserves endless replays. #parishilton #hollywood #thesimplelife #dj #fashion #celebrity #redcarpet #parishiltonfan #socialite #metgala #icon #empire #2000s #noughties",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
