@@ -606,5 +606,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-810f491a-07d6-4b92-a447-fbef1a9ea0c4.mp4",
+        "metadata": {
+            "title": "Paris Hilton on the Red Carpet: Glitz, Glam & Icon Energy (Hilltok Lens Exclusive) \u2728",
+            "description": "Okay besties, if you\u2019re ready for pure Paris Hilton magic, this one\u2019s for you\u2014because her red carpet energy is nothing short of iconic. From head-turning, camera-ready fashion to those unforgettable moments that scream \u201csocialite legend,\u201d Paris always shows up like the ultimate main character, serving glamour in every angle. Whether she\u2019s owning the spotlight with a flawless look or stepping into an interview moment like it\u2019s a runway, her style is so bold, so polished, and so unmistakably her\u2014she doesn\u2019t just follow trends, she creates them. And let\u2019s not forget the vibe beyond the carpet: the confidence, the sparkle, the pop culture impact that made her a true symbol of the noughties era and beyond. Like if you love Paris Hilton! Comment your favorite Paris Hilton movie or moment! Share this with another Paris Hilton fan! Follow Hilltok Lens for the best Paris Hilton content! #parishilton #hollywood #thesimplelife #dj #fashion #celebrity #redcarpet #parishiltonfan #socialite #metgala #icon #empire #2000s #noughties",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
