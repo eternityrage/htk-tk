@@ -894,5 +894,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b1d660fa-8d7c-4c48-9745-496079a82725.mp4",
+        "metadata": {
+            "title": "Paris Hilton's Funniest Talk Show Appearances Compilation",
+            "description": "Paris Hilton on the interview circuit is an absolute joy to watch. Whether she's getting flustered talking about her latest ventures or giving profound answers about her legacy, she lights up every room. Her chemistry with interviewers is unmatched - she's funny, sharp, thoughtful, and down-to-earth. She's the kind of star who makes you feel like you're just chatting with a friend. Like if you could watch Paris Hilton interviews all day! #parishilton #interviews #talkshow #hollywood #celebrity #parishiltonfan #funny #personality #icon #simplelife",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
