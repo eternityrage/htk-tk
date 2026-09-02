@@ -1182,5 +1182,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-6f477fbe-3c12-4278-a0f4-ebeb5812d3cb.mp4",
+        "metadata": {
+            "title": "Paris Hilton Interview Moments That Proved She's a Legend",
+            "description": "Fashion has never seen a powerhouse quite like Paris Hilton. Each red carpet appearance is a masterclass in style - from Y2K glam to Old Hollywood elegance at the Oscars. She works with the biggest designers to create moments that define fashion history. The pink tracksuit. The velour sets. The crystal-covered everything. Every single time, she takes risks and every single time, she delivers. Comment which Paris Hilton look is your favorite! #parishilton #fashionicon #style #redcarpet #metgala #highfashion #celebritystyle #couture #parishiltonstyle #fashiongoals #iconic",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
