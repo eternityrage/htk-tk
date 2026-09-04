@@ -1278,5 +1278,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-261bcd99-4a24-4372-80d9-dbe9def64d81.mp4",
+        "metadata": {
+            "title": "Paris Hilton: The Icon Who Turned Glitter Into Confidence \u2728 From Red Carpets to DJ Nights",
+            "description": "Get ready, Hilltok Lens fam\u2014today we\u2019re celebrating Paris Hilton the way she deserves: with iconic red carpet energy, unforgettable interviews, and that unmistakable sparkle that makes everything feel possible. From the effortless glam of her fashion moments to the electrifying confidence of her DJ sets, Paris doesn\u2019t just show up\u2014she *owns the spotlight* and inspires everyone watching to do the same. Her journey is proof that creativity, resilience, and a little bit of fearless fun can turn dreams into an empire, and that\u2019s exactly why her fans feel so motivated every time her name trends. Whether you\u2019re obsessed with her legendary \u201csimple life\u201d vibes or you\u2019re living for the modern-day icon status at events like the met gala, Paris Hilton reminds us that authenticity and style go hand in hand. Like if you love Paris Hilton! Comment your favorite Paris Hilton movie or moment! Share this with another Paris Hilton fan! Follow Hilltok Lens for the best Paris Hilton content! #parishilton #hollywood #thesimplelife #dj #fashion #celebrity #redcarpet #parishiltonfan #socialite #metgala #icon #empire #2000s #noughties",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
