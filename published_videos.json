@@ -3822,5 +3822,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-6f477fbe-3c12-4278-a0f4-ebeb5812d3cb.mp4",
+        "metadata": {
+            "title": "Paris Hilton \ud83d\udd25 The Iconic Moments That Sparkle Like a Headline (Red Carpet, DJ Sets & Main-Character Energy)",
+            "description": "Turn the volume up\u2014because today on Hilltok Lens we\u2019re celebrating Paris Hilton in full *icon mode*! From razor-sharp red carpet looks that turn every step into a moment to hilarious, unforgettable interview flashes, Paris doesn\u2019t just show up\u2026 she *owns the room* with her signature sparkle and bold, fashion-forward attitude. And let\u2019s not even start with her DJ energy\u2014when the beats drop, you can practically hear the crowd screaming her name like it\u2019s the best party of the year. Whether she\u2019s glowing on the Met Gala scene or giving behind-the-scenes style that screams 2000s perfection, Paris Hilton is pure pop culture power with main-character charisma for days. Like if you love Paris Hilton! Comment your favorite Paris Hilton movie or moment! Share this with another Paris Hilton fan! Follow Hilltok Lens for the best Paris Hilton content! #parishilton #hollywood #thesimplelife #dj #fashion #celebrity #redcarpet #parishiltonfan #socialite #metgala #icon #empire #2000s #noughties",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
